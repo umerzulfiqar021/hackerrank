@@ -11,4 +11,6 @@ for (let i = 1; i < arr.length ; i++){
     max += min[i]
 1   
 }
+// console.log(min);
+
 console.log(element, max);
